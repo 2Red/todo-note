@@ -1,2 +1,0 @@
-# todo-note
-mean stack
